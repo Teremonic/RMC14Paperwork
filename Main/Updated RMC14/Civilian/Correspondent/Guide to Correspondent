@@ -26,12 +26,15 @@ What to Report on? Here's a general list of things you can report on, but rememb
 ●   If you are a military correspondent, you are there to make the marines look good. So try and catch all the heroic moments.
 ●   You can turn on squad comms from your headset to listen in on what's going on and jot it down on your notepad
 
-[color=3d5e79][head=2] █ Templates █ [/head][/color]
-[head=3]Headline Story[/head]
+[color=#5f698a][head=2] █ Templates █ [/head][/color]
+[color=#AAAAAA][head=3]Headline Story[/head][/color]
 
-[center][head=1]{NEWS GROUP NAME}[/head][date][hr][large][head=2]{HEADLINE!}[/head][/large]{HEADLINE SUBTITLE!}[/center]
-[hr][small]By: [sign]
-News Network: {NEWS NETWORK NAME}[/small]
+[head=1]{NEWS GROUP NAME}[/head]
+[head=2]{HEADLINE!}[/head]
+{HEADLINE SUBTITLE!}
+═════════════════════════
+[italic]By: {NAME}
+News Network: {NEWS NETWORK NAME} [/italic]
 
 {LOCATION NAME IN ALL CAPS} - {PARAGRAPH BODY}
 
@@ -41,11 +44,13 @@ News Network: {NEWS NETWORK NAME}[/small]
 
 {PARAGRAPH BODY}
 
-[head=3]Side Story[/head]
+[color=#AAAAAA][head=3]Side Story[/head][/color]
 
-[large][head=3]{HEADLINE!}[/head][/large]{HEADLINE SUBTITLE!}[/center]
-[hr][small]By: [sign]
-News Network: {NEWS NETWORK NAME}[/small]
+[head=3]{HEADLINE!}[/head]
+{HEADLINE SUBTITLE!}
+═════════════════════════
+[italic]By: {NAME}
+News Network: {NEWS NETWORK NAME}[/italic]
 
 {LOCATION NAME IN ALL CAPS} - {PARAGRAPH BODY}
 
